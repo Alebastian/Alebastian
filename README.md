@@ -20,6 +20,8 @@ Artistas y Grupos favoritos:
 
 Y pos ya, si quieres conocerme más tendrás que hablarme porque no puedo exprimir más esta presentación :D
 
+![Foto real mía](aaaaa.jpg)
+
 <!--
 **Alebastian/Alebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
